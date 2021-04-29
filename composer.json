@@ -1,0 +1,18 @@
+{
+    "name": "acme/openapi-gen",
+    "version": "1.0.0",
+    "description": "Open api generator",
+    "keywords": ["openapi"],
+    "license": "MIT",
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "cebe/php-openapi": "^1.5",
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Eduardo Leiva",
+            "email": "eleiva@gmail.com"
+        }
+    ]
+}
